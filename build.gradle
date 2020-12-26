@@ -20,7 +20,7 @@ apply plugin: 'kotlin'
 apply plugin: 'application'
 
 
-group 'com.todo.exmaple'
+group 'com.exmaple'
 version '0.0.1'
 mainClassName = "io.ktor.server.netty.EngineMain"
 
