@@ -26,7 +26,7 @@ mainClassName = "io.ktor.server.netty.EngineMain"
 
 jar {
     manifest {
-        attributes 'Main-Class': "com.exmaple.ApplicationKt"
+        attributes 'Main-Class': "com.example.ApplicationKt"
     }
     from {
         configurations.compile.collect {
