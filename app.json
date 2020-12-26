@@ -1,0 +1,8 @@
+{
+  "name": "todo web api with ktor",
+  "description": "todo web api with ktor",
+  "image": "heroku/java",
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
